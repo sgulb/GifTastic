@@ -1,0 +1,23 @@
+.jumbotron {
+	padding-top: 0px;
+	padding-bottom: 10px;
+	background-color: #F3F3F3;
+}
+
+.jumbotron p {
+	margin-bottom: 0px;
+}
+
+.actor {
+	margin-right: 5px;
+	margin-top: 5px;
+}
+
+body {
+	background-color: #F3F3F3;
+}
+
+.gif {
+	float: left;
+}
+
